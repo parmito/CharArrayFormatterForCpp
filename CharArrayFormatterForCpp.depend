@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1714133596 source:/home/volkswagen2/Documentos/danilo-franco/CharArrayFormatterForCpp/main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+
